@@ -19,7 +19,7 @@ Cette plateforme permet aux freelances de consulter des missions disponibles et 
  Installation et exécution
 1. Cloner le projet
    ```bash
-   git clone https://github.com/"".git
+   git clone https://github.com/selmib30/CDA_08.git
    cd plateforme-freelance
    ```
 2. Ouvrir le projet dans un navigateur
