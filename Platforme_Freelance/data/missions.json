@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titre": "Développeur Frontend React",
+        "description": "Développement d'une interface utilisateur moderne en React.js.",
+        "entreprise": "Tech Innovators",
+        "budget": "3000€"
+    },
+    {
+        "id": 2,
+        "titre": "Rédacteur SEO",
+        "description": "Rédaction d'articles optimisés SEO pour un blog tech.",
+        "entreprise": "Content Masters",
+        "budget": "800€"
+    },
+    {
+        "id": 3,
+        "titre": "Graphiste UI/UX",
+        "description": "Création de maquettes UI/UX pour une application mobile.",
+        "entreprise": "Design Pro",
+        "budget": "2000€"
+    }
+]
